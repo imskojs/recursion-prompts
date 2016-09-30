@@ -7,7 +7,7 @@
 - function자체가 recurse해야 합니다. function안에 다른 function을 넣어 recurse하지 마세요.
 - 문제가 있으면 pull request들을 보내주세요.
 - Fork 하세요!
-- `SpecRunner.html`을 브라우저에 열어 놓고, `spec/part1.js`와 `spec/part2.js`의 function들을 완성시켜 `SpecRunner.html`에 보이는 test들을 하나씩 pass하면 됩니다.
+- `SpecRunner.html`을 브라우저에 열어 놓고, `src/recursion.js`의 function들을 완성시켜 `SpecRunner.html`에 보이는 test들을 하나씩 pass하면 됩니다.
 
 
 
